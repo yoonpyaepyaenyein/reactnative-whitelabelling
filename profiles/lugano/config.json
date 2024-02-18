@@ -1,0 +1,8 @@
+{
+  "id": "ch.visit.lugano",
+  "name": "Visit Lugano",
+  "theme": "light",
+  "modules": ["events", "museums", "hikes"],
+  "iconsPath": "./icons",
+  "baseUrl": "https://visit.lugano.ch"
+}
